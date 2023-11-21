@@ -10,6 +10,12 @@
 ## Skiis
 <img width="1588" alt="스크린샷 2023-10-11 오후 10 57 03" src="https://github.com/AHNYUNKI/Team_Project/assets/121776373/b081b2b1-b914-4caf-a09d-089a88065c11">
 
+## 담당 역할
+	- 회원 관리 CRUD
+	- Security 로그인, 권한 설정
+	- OAUTH2.0을 이용한 소셜 로그인
+	- CI/CD 배포
+
 ## 🪝 팀원
 <table>
   <tbody>  
