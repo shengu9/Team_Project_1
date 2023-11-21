@@ -1,5 +1,7 @@
 # 쇼핑몰 프로젝트 - 마켓컬리
 
+## 프로젝트 기간
+2023.08.25 ~ 2023.09.25
 
 ## 데이터베이스
 ![image](https://github.com/AHNYUNKI/Team_Project/assets/121776373/c0bbf344-4361-42fc-8656-1fd031991222)
